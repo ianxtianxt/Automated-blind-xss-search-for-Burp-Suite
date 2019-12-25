@@ -3,7 +3,7 @@
 An automated blind-xss search plugin for Burp Suite.
 
 ### Installation
-Git clone https://github.com/wish-i-was/femida.git
+Git clone https://github.com/ianxtianxt/Automated-blind-xss-search-for-Burp-Suite.git
 Burp -> Extender -> Add -> find and select blind-xss.py
 
 ## How to use
